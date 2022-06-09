@@ -1,4 +1,0 @@
-fileignoreconfig:
-- filename: src/main/resources/db/migration/V1.1__CreateUsersTable.sql
-  checksum: 06f8d03b028f1deb5722fe3b35642fe848e7ff444530ede17d778fa641a6b65e
-version: ""
