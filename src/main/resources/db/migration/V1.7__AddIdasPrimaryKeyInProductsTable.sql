@@ -1,0 +1,1 @@
+alter table products add constraint p_key_products primary key(id);
